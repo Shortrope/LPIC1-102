@@ -6,10 +6,22 @@ Notes from Linux Academy course.
 **Today's Progress:**  
 **Thoughts:**  
 **Link to work:**  
-<br><br>
+<br>
 
 ---
 -->
+## Day 4: Apr 9, 2019 - .75hr
+**Today's Progress:**  
+Users Groups
+<br>
+
+---
+## Day 3: Apr 8, 2019 - .5hr
+**Today's Progress:**  
+Review umask, histcontrol
+<br>
+
+---
 ## Day 2: Apr 7, 2019 - 1.5hr
 **Today's Progress:**  
 Bash Loops and Sequences  
