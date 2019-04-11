@@ -10,6 +10,12 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 5: Apr 11, 2019 - .5hr
+**Today's Progress:**  
+Managing Users and Groups
+<br>
+
+---
 ## Day 4: Apr 9, 2019 - .75hr
 **Today's Progress:**  
 Users Groups
