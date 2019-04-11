@@ -46,6 +46,12 @@ yum group-install "X Window Sytsem"
     xauth list
 
 ### VNC
+Insecure by default  
+
+    yum -y install tigervnc-server
+    
+
 
 
 ### Spice
+TLS encrypted remote desktop protocol that can be used on Linux, Windows and Android  
