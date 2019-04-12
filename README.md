@@ -1,6 +1,5 @@
 # LPIC1-102
 Notes from Linux Academy course.
-
 <!-- 
 ## Day N: Apr N, 2019 - Nhr
 **Today's Progress:**  
@@ -10,6 +9,13 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 6: Apr 12, 2019 - .75hr
+**Today's Progress:**  
+Cron
+Review 'set -e', nice
+<br>
+
+---
 ## Day 5: Apr 11, 2019 - .5hr
 **Today's Progress:**  
 Managing Users and Groups
