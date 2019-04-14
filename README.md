@@ -9,6 +9,12 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 8: Apr 14, 2019 - 1hr
+**Today's Progress:**  
+Time Timezones Locale NTP
+<br>
+
+---
 ## Day 7: Apr 13, 2019 - .75hr
 **Today's Progress:**  
 Review cron
