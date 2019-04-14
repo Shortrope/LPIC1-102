@@ -9,6 +9,16 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 7: Apr 13, 2019 - .75hr
+**Today's Progress:**  
+Review cron
+at, systemd timer unit files
+Lab
+**Thoughts:**  
+systemd timer unit files seem very complicated compared to cron/at
+<br>
+
+---
 ## Day 6: Apr 12, 2019 - .75hr
 **Today's Progress:**  
 Cron
