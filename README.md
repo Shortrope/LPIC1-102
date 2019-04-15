@@ -12,6 +12,7 @@ Notes from Linux Academy course.
 ## Day 8: Apr 14, 2019 - 1hr
 **Today's Progress:**  
 Time Timezones Locale NTP
+Logging
 <br>
 
 ---
