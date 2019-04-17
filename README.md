@@ -9,6 +9,19 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 10: Apr 16, 2019 - 1hr
+**Today's Progress:**  
+Research syslogd, savelog, logrotate
+Implement logrotate on hook.log
+<br>
+
+---
+## Day 9: Apr 15, 2019 - 1hr
+**Today's Progress:**  
+Research syslogd, savelog, logrotate
+<br>
+
+---
 ## Day 8: Apr 14, 2019 - 1hr
 **Today's Progress:**  
 Time Timezones Locale NTP
