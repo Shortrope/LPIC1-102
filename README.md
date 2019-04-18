@@ -9,6 +9,12 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 11: Apr 18, 2019 - .75hr
+**Today's Progress:**  
+MTA Mail Transfer Agent
+<br>
+
+---
 ## Day 10: Apr 16, 2019 - 1hr
 **Today's Progress:**  
 Research syslogd, savelog, logrotate

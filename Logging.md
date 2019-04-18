@@ -63,6 +63,14 @@ man rsyslog.conf
 
 ### `logrotate`
 
+    syslogd-listfiles           # list daily log files
+    syslogd-listfiles -w        # list weekly log files
+
+    savelog                     # does the log rotate work based on /etc/syslog.conf
+
+    /etc/logrotate.d/n
+    /etc/init.d/sysklogd --quiet reload
+
 
 
 ## Systemd Journal
