@@ -12,6 +12,9 @@ Notes from Linux Academy course.
 ## Day 13: Apr 20, 2019 - 1hr
 **Today's Progress:**  
 Networking: Network manager, ip, ifconfig, netstat, ss, traceroute
+DNS and Labs
+**Thoughts:**  
+A few new things. nmcli, /etc/nsswitch.conf, host, dig, tracepath, ss
 <br>
 
 ---
