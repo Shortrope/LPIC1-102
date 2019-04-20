@@ -9,6 +9,16 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 12: Apr 19, 2019 - .5hr
+**Today's Progress:**  
+Watch Printing and Fundamentals of Internet Protocols
+No notes
+**Thoughts:**  
+I'm not interested in printing
+Already know the networking stuff
+<br>
+
+---
 ## Day 11: Apr 18, 2019 - .75hr
 **Today's Progress:**  
 MTA Mail Transfer Agent
