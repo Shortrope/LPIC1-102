@@ -9,6 +9,12 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 13: Apr 20, 2019 - 1hr
+**Today's Progress:**  
+Networking: Network manager, ip, ifconfig, netstat, ss, traceroute
+<br>
+
+---
 ## Day 12: Apr 19, 2019 - .5hr
 **Today's Progress:**  
 Watch Printing and Fundamentals of Internet Protocols
