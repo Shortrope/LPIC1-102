@@ -9,6 +9,13 @@ Notes from Linux Academy course.
 
 ---
 -->
+## Day 14: Apr 21, 2019 - 1hr
+**Today's Progress:**  
+Securtiy
+Ansible
+<br>
+
+---
 ## Day 13: Apr 20, 2019 - 1hr
 **Today's Progress:**  
 Networking: Network manager, ip, ifconfig, netstat, ss, traceroute
